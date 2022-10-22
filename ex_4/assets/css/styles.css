@@ -1,0 +1,25 @@
+@keyframes mymove {
+    50% {
+        transform: rotate(180deg);
+    }
+}
+
+@keyframes mynewmove {
+    from {
+        top: -100px;
+    }
+
+    to {
+        top: 0px;
+    }
+}
+
+@keyframes mynewmove1 {
+    from {
+        left: -100px;
+    }
+
+    to {
+        left: 0px;
+    }
+}
